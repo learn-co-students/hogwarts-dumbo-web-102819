@@ -19,6 +19,7 @@ const hogs = [
     greased: false,
     weight: 0.7,
     'highest medal achieved': 'gold'
+
   },
   {
     name: 'Piggy smalls',
@@ -26,6 +27,7 @@ const hogs = [
     greased: true,
     weight: 5.1,
     'highest medal achieved': 'platinum'
+    
   },
   {
     name: 'Trouble',
@@ -33,6 +35,7 @@ const hogs = [
     greased: true,
     weight: 1.7,
     'highest medal achieved': 'gold'
+    
   },
   {
     name: 'Sobriety',
@@ -88,8 +91,6 @@ const hogs = [
     specialty: 'Vacuum tubes',
     greased: true,
     weight: 4.1,
-    'highest medal achieved': 'wood'
-  }
-];
+    'highest medal achieved': 'wood'}]
 
 export default hogs;
