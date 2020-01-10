@@ -138,3 +138,17 @@ ul {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+.extra {
+  text-align: left;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.button-group {
+  position: relative;
+  z-index: 1;
+}
